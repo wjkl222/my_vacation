@@ -1,0 +1,1 @@
+ALTER TABLE "hotel_room" ADD COLUMN "description" varchar(255) NOT NULL;

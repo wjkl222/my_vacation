@@ -1,0 +1,1 @@
+ALTER TABLE "hotel" RENAME COLUMN "country" TO "contry";

@@ -1,0 +1,1 @@
+ALTER TABLE "bookings" ALTER COLUMN "price" SET NOT NULL;
